@@ -5,6 +5,9 @@ Documentación y práctica de Java desde cero: fundamentos, POO, estructuras de 
 
 Structura:
 *1-Fundamentos programacion Java:
+
 *2-POO En JAVA:
+
 *3-Estructura de Datos:
+
 *Algoritmos:
