@@ -1,4 +1,4 @@
-public class operadorRelacional {
+public class OperadorRelacional {
     public static void main(String[] args) {
         
         int numero1 = 15;

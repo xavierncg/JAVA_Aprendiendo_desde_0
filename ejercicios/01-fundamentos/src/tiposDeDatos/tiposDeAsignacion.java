@@ -1,4 +1,4 @@
-public class tiposDeAsignacion {
+public class TiposDeAsignacion {
     public static void main(String[] args) {
         int numero1 = 10; // Asignación directa o simple
         System.out.println("El valor de numero1 es: " + numero1);
