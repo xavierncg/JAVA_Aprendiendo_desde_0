@@ -1,4 +1,4 @@
-public class tipoDatoBoolean {
+public class TipoDatoBoolean {
     
     public static void main(String[] args) {
         boolean esJavaDivertido = true;
